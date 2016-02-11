@@ -1,0 +1,30 @@
+_repo: Novelle-umoristiche_48779
+creator:
+  author:
+    agent_name: Albertazzi, Adolfo
+    alias: Albertazzi
+    birthdate: 1865
+    deathdate: 1924
+    gutenberg_agent_id: '39080'
+    url: http://www.gutenberg.org/2009/agents/39080
+    wikipedia: http://it.wikipedia.org/wiki/Adolfo_Albertazzi
+description: ''
+gutenberg_bookshelf: IT Racconti
+gutenberg_issued: '2015-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48779'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Italian'
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+tableOfContents: Il suicidio del maestro Bonarca -- La giocatrice -- Doni nuziali
+  -- Dall'Eldorado -- Il cappello del marito -- Efficacia d'una giarrettiera -- La
+  fortuna di un uomo -- Una “scampanata„ -- Il polso -- Come finì la Modestia -- L'entusiasta
+  punito -- L'agnello -- Il falcone -- In Arcadia.
+title: Novelle umoristiche
+url: http://www.gutenberg.org/ebooks/48779
